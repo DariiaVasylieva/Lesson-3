@@ -1,0 +1,38 @@
+p {
+    color: blueviolet;
+}
+
+#p2 {
+    color: rgb(215, 138, 31);
+}
+
+.p3 {
+    color: blue;
+}
+
+.color{
+    color: crimson;
+}
+
+p span{
+    color: aquamarine;
+}
+
+div>p{
+    color: brown;
+}
+
+.p4{
+    color: rgb(221, 18, 173);
+}
+
+.p5{
+    color: rgb(10, 233, 32);
+}
+
+span p{
+    color: rgb(198, 150, 225);
+}
+b+span{
+    color: rgb(230, 125, 204);
+}
